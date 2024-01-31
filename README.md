@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pooja1006
-- 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Next Js.
 - 📫 How to reach me ... Its my gmail - psoni8444@gmail.com
 
 <!---
